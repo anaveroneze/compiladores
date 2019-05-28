@@ -1,0 +1,16 @@
+(9<4++6) AND (false OR true
+-100
+truetrue
+5var 5
+var 5
+(9.3<4+6) AND (false OR true)
+(9<4+6) AND (false OR true)
+true AND false
+false OR true AND true
+false OR (true AND true)
+NOT false AND true
+true AND 5>3
+false OR (6<=8) AND true
+(4=7) OR (true AND true)
+NOT false AND (7*7<>78)
+6b
