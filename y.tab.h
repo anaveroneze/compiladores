@@ -50,14 +50,14 @@ extern int yydebug;
     VARIABLE = 260,
     TRUE = 261,
     FALSE = 262,
-    LE = 263,
-    GE = 264,
-    EQ = 265,
-    NE = 266,
-    AND = 267,
-    OR = 268,
-    NOT = 269,
-    UMINUS = 270
+    NEG = 263,
+    LE = 264,
+    GE = 265,
+    EQ = 266,
+    NE = 267,
+    AND = 268,
+    OR = 269,
+    NOT = 270
   };
 #endif
 

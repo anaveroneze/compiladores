@@ -1,0 +1,10 @@
+true
+true AND false
+false OR true AND true
+false OR (true AND true)
+NOT false AND true
+true AND 5>3
+(9<4+6) AND false
+false OR (6<=8) AND true
+(4=7) OR (true AND true)
+NOT false AND (7*7<>78)
